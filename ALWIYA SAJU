@@ -1,0 +1,60 @@
+<h6>TABLE CAPTION</h6>
+<table border="1">
+	<tr style="background-color: #f2f2f2;">
+		<th>Sr.Number</th>
+		<th>First Name</th>
+		<th>Last Name</th>
+		<th>Subject</th>
+		<th>Sem</th>
+	</tr>
+	<tr style="background-color:#FFFF00">
+		<td>1</td>
+		<td>Rahul</td>
+		<td>Sharma</td>
+		<td><a href="https://en.wikipedia.org/wiki/Mathematics">Mathematics</a></td>
+		<td>First</td>
+	</tr>
+	<tr style="background-color:#FF0000">
+		<td>2</td>
+		<td>Priya</td>
+		<td>Singh</td>
+		<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python Programming</a></td>
+		<td>Fourth</td>
+	</tr>
+	<tr style="background-color:#FFC0CB">
+		<td>3</td>
+		<td>Arjun</td>
+		<td>Patel</td>
+		<td><a href="https://en.wikipedia.org/wiki/Indian_literature">Indian Literature</a></td>
+		<td>Fifth</td>
+	</tr>
+	<tr style="background-color: #87CEEB">
+		<td>4</td>
+		<td>Sneha</td>
+		<td>Kumar</td>
+		<td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java Programming</a></td>
+		<td>Third</td>
+	</tr>
+	<tr style="background-color: #FF69B4">
+		<td>5</td>
+		<td>Aparna</td>
+		<td>Rao</td>
+		<td><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C Programming</a></td>
+		<td>Fourth</td>
+	</tr>
+	<tr style="background-color:#800080">
+		<td>6</td>
+		<td>Ravi</td>
+		<td>Verma</td>
+		<td><a href="https://simple.wikipedia.org/wiki/C%2B%2B">C++ Programming</a></td>
+		<td>Seventh</td>
+	</tr>
+	<tr style="background-color: #964B00">
+		<td>7</td>
+		<td>Megha</td>
+		<td>Iyer</td>
+		<td><a href="https://en.wikipedia.org/wiki/Hindi_language">Hindi Language</a></td>
+		<td>Sixth</td>
+	</tr>
+</table>
+
